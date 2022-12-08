@@ -1,4 +1,3 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
 ## I'm a QA Intern . 
 ## Passed course "Tester from scratch" on platform Udemy by author Artsiom Rusau 
 ## My CV
