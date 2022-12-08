@@ -23,11 +23,10 @@
 ### Testing Documentation
 
 - [Checklists](https://github.com/4e4eh84/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Test-Suites and Test-Cases](https://github.com/4e4eh84/test-cases)
+- [Bug-Reports](https://github.com/4e4eh84/bug-reports)
+- [SQL Queries](https://github.com/4e4eh84/SQL)
+- [Postman Collections](https://github.com/4e4eh84/postman)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)](https://www.youtube.com/channel/UC6CHrxea-NqH_ENmRiqrPRw)
-[![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/rusau.qalife/)
