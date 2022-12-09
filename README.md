@@ -1,8 +1,8 @@
 ## I'm a QA Intern . 
 ## Passed course "Tester from scratch" on platform Udemy by author Artsiom Rusau 
 ## My CV
-[Link to my CV](https://hh.ru/resume/1d126996ff04cb39240039ed1f664a634b3030)
-[Link to my CV (system administrator)](https://hh.ru/resume/bea09c02ff0b8549af0039ed1f5a6443474a74)
+- [Link to my CV ](https://hh.ru/resume/bea09c02ff0b8549af0039ed1f5a6443474a74)
+ -[Link to my CV (system administrator)](https://hh.ru/resume/1d126996ff04cb39240039ed1f664a634b3030)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
