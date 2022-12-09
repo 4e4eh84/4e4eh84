@@ -13,7 +13,7 @@
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/WmWare-090909?style=for-the-badge&logo=WmWare&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/VmWare-090909?style=for-the-badge&logo=VmWare&logoColor=8cc4d7)
 
 ### Testing Documentation
 
