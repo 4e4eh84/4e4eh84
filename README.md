@@ -26,4 +26,5 @@
 - [Postman Collections](https://github.com/4e4eh84/postman)
 
 ### Follow Me
-[Link to my sertificate](https://drive.google.com/file/d/10DioW0FbSh-42Qyqx1PtctW25VjYiUSc/view?usp=sharing)
+[My sertificate]
+[![Header](https://img.shields.io/badge/Udemi-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://drive.google.com/open?id=10DioW0FbSh-42Qyqx1PtctW25VjYiUSc&authuser=nevgenii25%40gmail.com&usp=drive_fs
