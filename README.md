@@ -25,6 +25,5 @@
 - [SQL Queries](https://github.com/4e4eh84/SQL)
 - [Postman Collections](https://github.com/4e4eh84/postman)
 
-### Follow Me
-[My sertificate]
-[![Header](https://img.shields.io/badge/Udemi-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://drive.google.com/open?id=10DioW0FbSh-42Qyqx1PtctW25VjYiUSc&authuser=nevgenii25%40gmail.com&usp=drive_fs
+### My sertificate
+[![Header](https://img.shields.io/badge/Udemi-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://drive.google.com/open?id=10DioW0FbSh-42Qyqx1PtctW25VjYiUSc&authuser=nevgenii25%40gmail.com&usp=drive_fs)
