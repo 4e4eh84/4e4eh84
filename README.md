@@ -26,4 +26,4 @@
 - [Postman Collections](https://github.com/4e4eh84/postman)
 
 ### Follow Me
-[![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)](https://www.youtube.com/channel/UC6CHrxea-NqH_ENmRiqrPRw)
+[Link to my sertificate](https://drive.google.com/file/d/10DioW0FbSh-42Qyqx1PtctW25VjYiUSc/view?usp=sharing)
