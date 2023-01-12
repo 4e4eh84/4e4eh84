@@ -28,3 +28,4 @@
 ### My sertificate
 [![Header](https://img.shields.io/badge/Udemi-090909?style=for-the-badge&logo=Udemi&logoColor=9939a3)](https://drive.google.com/open?id=10DioW0FbSh-42Qyqx1PtctW25VjYiUSc&authuser=nevgenii25%40gmail.com&usp=drive_fs)
 [![Header](https://img.shields.io/badge/Stepik-090909?style=for-the-badge&logo=Stepik&logoColor=9939a3)](https://drive.google.com/file/d/10QlkeU8LplG0XKQsJEuFDiLTOcnYSYNy/view?usp=sharing)
+[![Header](https://img.shields.io/badge/Specialist-090909?style=for-the-badge&logo=Specialist&logoColor=9939a3)](https://drive.google.com/open?id=11QZm78O2HE6RjB4V5Uz_zf_XlUJ4Mc4P&authuser=nevgenii25%40gmail.com&usp=drive_fs)
